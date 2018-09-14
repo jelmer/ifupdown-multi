@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Robert S. Edmonds <edmonds@debian.org>
 Build-Depends: debhelper (>= 9), python
 Standards-Version: 3.9.4
-Vcs-Git: git://github.com/farsightsec/ifupdown-multi.git
+Vcs-Git: https://github.com/farsightsec/ifupdown-multi.git
 Vcs-Browser: https://github.com/farsightsec/ifupdown-multi
 
 Package: ifupdown-multi
